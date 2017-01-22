@@ -31,4 +31,8 @@ h1 {
 
 .column {
   width: 300px;
+  border: 2px dotted brown;
+  padding: 4px;
+  margin: 12px;
+  background-color: forestgreen;
 }
