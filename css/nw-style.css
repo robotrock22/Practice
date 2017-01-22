@@ -36,3 +36,7 @@ h1 {
   margin: 12px;
   background-color: forestgreen;
 }
+
+.column p {
+  font-weight: bold;
+}
