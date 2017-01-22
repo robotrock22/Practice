@@ -1,0 +1,14 @@
+h1 {
+  color: green;
+}
+
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+.best {
+  color: teal;
+  font-size: 50px;
+  font-style: bold;
+}
