@@ -12,3 +12,23 @@ h1 {
   font-size: 50px;
   font-style: bold;
 }
+
+.important {
+  font-style: bold;
+  font-size: 30px;
+}
+
+.unimportant{
+  font-size: 15px;
+  color: white;
+}
+
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: forestgreen;
+}
+
+.column {
+  width: 300px;
+}
